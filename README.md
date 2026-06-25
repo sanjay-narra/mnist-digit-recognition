@@ -180,7 +180,7 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 **Sanjay**
-- GitHub: https://github.com/Sanjay284-beep
+- GitHub: https://github.com/sanjay-narra/mnist-digit-recognition
 - LinkedIn: https://www.linkedin.com/in/sanjaynarra
 - Location: Hyderabad, India
 
